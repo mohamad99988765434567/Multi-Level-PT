@@ -2,7 +2,7 @@
 
 This project implements a simulation of a multi-level (trie-based) page table system for a 64-bit virtual memory model. The goal is to simulate how an operating system translates virtual page numbers (VPN) to physical page numbers (PPN) using a hierarchical structure of page tables.
 
-This assignment was completed as part of the Operating Systems course at the Hebrew University.
+This assignment was completed as part of the Operating Systems course at the Tel-Aviv University.
 
 ## Files
 
